@@ -1,0 +1,6 @@
+{
+  "name": "Panadería Vivi",
+  "description": "Panadería, confitería y rotisería artesanal: panes recién horneados, facturas, churros, tartas, empanadas, perniles y delicias caseras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
